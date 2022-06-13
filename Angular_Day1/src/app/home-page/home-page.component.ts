@@ -24,13 +24,16 @@ pics5: string = "https://cdn.pixabay.com/photo/2017/08/14/17/32/switzerland-2641
 pics6: string = "https://cdn.pixabay.com/photo/2022/01/10/12/06/hotel-6928165_960_720.jpg";
 dest1: string = "Jasna, Slovakia";
 dest2: string = "Abisko,Sweden";
-
 dest3: string = "Lapland,Finland";
-
 dest4: string = "Neuschneher, Austria";
-
 dest5: string = "Abisko,Sweden";
 dest6: string = "Jasna, Slovakia";
+price1: string = "120€/pers";
+price2: string = "130€/pers";
+price3: string = "140€/pers";
+price4: string = "150€/pers";
+price5: string = "120€/pers";
+price6: string = "125€/pers";
 
 
   constructor() { }
