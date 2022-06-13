@@ -15,6 +15,18 @@ third: string = "Seasoned Agents";
 thirdP: string = "Combined, the experience our agents have is centuries!";
 four: string = "Easy Trip Planning";
 fourP: string = "Our travel agents are always ready to plan your project trip!";
+natpis: string = "Best Winter Trips";
+pics1: string = "https://cdn.pixabay.com/photo/2019/12/06/05/46/alpine-village-4676673_960_720.jpg";
+pics2: string = "https://cdn.pixabay.com/photo/2016/02/07/19/48/aurora-1185464_960_720.jpg";
+
+pics3: string = "https://cdn.pixabay.com/photo/2019/09/03/11/15/hiking-trails-4449183_960_720.jpg";
+
+pics4: string = "https://cdn.pixabay.com/photo/2012/03/01/15/58/active-20502_960_720.jpg";
+
+pics5: string = "https://cdn.pixabay.com/photo/2017/08/14/17/32/switzerland-2641252_960_720.jpg";
+
+pics6: string = "https://cdn.pixabay.com/photo/2022/01/10/12/06/hotel-6928165_960_720.jpg";
+
   constructor() { }
 
   ngOnInit(): void {
